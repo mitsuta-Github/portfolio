@@ -2,3 +2,8 @@ h1 {
   font-size: 30px;
   color: red;
 }
+
+body img {
+  max-width: 200px;
+  height: auto;
+}
